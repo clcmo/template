@@ -10,4 +10,4 @@ Description about the project.
 
 Insert screenshot here.
 
-Licence: [MIT](LICENSE.md)
+Licence: [MIT](LICENSE)
