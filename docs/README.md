@@ -6,8 +6,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/clcmo/web?style=for-the-badge)](https://github.com/clcmo/web/issues)
 [![GitHub donate](https://img.shields.io/github/sponsors/clcmo?color=pink&style=for-the-badge)](https://github.com/sponsors/clcmo)
 
-Description about the project.
+Description about the project
 
-Insert screenshot here.
+Insert screenshot to inform what the visualization will be like
 
 Licence: [MIT](LICENSE)
