@@ -1,13 +1,27 @@
-# Insert Title
+# Título do Projeto
 
-[![GitHub license](https://img.shields.io/github/license/clcmo/web?style=for-the-badge)](https://github.com/clcmo/web)
-[![GitHub stars](https://img.shields.io/github/stars/clcmo/web?style=for-the-badge)](https://github.com/clcmo/web/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/clcmo/web?style=for-the-badge)](https://github.com/clcmo/web/network)
-[![GitHub issues](https://img.shields.io/github/issues/clcmo/web?style=for-the-badge)](https://github.com/clcmo/web/issues)
+[![GitHub license](https://img.shields.io/github/license/clcmo/template?style=for-the-badge)](https://github.com/clcmo/template)
+[![GitHub stars](https://img.shields.io/github/stars/clcmo/template?style=for-the-badge)](https://github.com/clcmo/template/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/clcmo/template?style=for-the-badge)](https://github.com/clcmo/template/network)
+[![GitHub issues](https://img.shields.io/github/issues/clcmo/template?style=for-the-badge)](https://github.com/clcmo/template/issues)
 [![GitHub donate](https://img.shields.io/github/sponsors/clcmo?color=pink&style=for-the-badge)](https://github.com/sponsors/clcmo)
 
-Description about the project
+Descrição breve do projeto.
 
-Insert screenshot to inform what the visualization will be like
+## Começando
+Instruções para iniciar o projeto localmente.
 
-Licence: [MIT](LICENSE)
+### Pré-requisitos
+Lista de pré-requisitos necessários para executar o projeto.
+
+### Instalação
+Passos para instalar o projeto.
+
+## Uso
+Instruções e exemplos de como usar o projeto.
+
+## Contribuindo
+Instruções para contribuir com o projeto.
+
+## Licença
+Licença [MIT](LICENSE)
