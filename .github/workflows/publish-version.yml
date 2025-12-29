@@ -11,7 +11,7 @@ on:
 
 permissions:
   contents: write
-
+  packages: write
 
 jobs:
   release:
@@ -25,14 +25,13 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '24.10.0'
+          registry-url: 'https://registry.npmjs.org'
 
       - name: Instalar dependências
-        run: 
-          npm init -y
-          npm install
+        run: npm ci
 
       - name: Executar Semantic Release
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
