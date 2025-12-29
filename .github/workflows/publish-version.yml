@@ -28,7 +28,7 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
 
       - name: Instalar dependências
-        run: npm ci
+        run: npm install
 
       - name: Executar Semantic Release
         env:
