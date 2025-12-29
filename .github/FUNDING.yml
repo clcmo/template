@@ -1,14 +1,13 @@
 # Como obter apoio financeiro para o desenvolvimento deste projeto.
-# Veja https://docs.github.com/pt/free-pro-team@latest/github/administering-a-repository/managing-repository-settings/managing-funding-for-your-repository
-# para mais informações
+# Veja https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+# para mais informações.
 
-custom: https://apprendendo.blog/
-custom: https://dev.camilaloliveira.com/
+custom: [https://dev.camilaloliveira.me/, https://apprendendo.blog/]
 github: clcmo
 ko_fi: clcmo
+patreon: clcmo
 
 open_collective: #
-patreon: #
 tidelift: #
 liberapay: #
 paypal: #
