@@ -1,5 +1,5 @@
 ---
-name: Relato de Bug
+name: Relato de Bug (Português)
 about: Crie um relatório de bug para nos ajudar a melhorar
 title: ''
 labels: ''

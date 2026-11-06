@@ -1,3 +1,5 @@
+🇧🇷 **Português** | 🇺🇸 [English](CONTRIBUTING.en.md)
+
 # Contribuindo
 
 Obrigado por considerar contribuir com este projeto! 🎉
@@ -8,7 +10,7 @@ Obrigado por considerar contribuir com este projeto! 🎉
 
 Se você encontrou um bug, por favor:
 
-1. Verifique se o bug já não foi reportado nas [Issues](../../issues)
+1. Verifique se o bug já não foi reportado nas [Issues](../../../issues)
 2. Abra uma nova issue incluindo:
    - Descrição clara do problema
    - Passos para reproduzir
@@ -72,6 +74,8 @@ Utilizamos mensagens de commit semânticas:
 - `refactor:` refatoração de código
 - `test:` adição ou modificação de testes
 - `chore:` tarefas de manutenção
+
+Os commits também definem as versões: `fix:` gera uma versão de correção (patch), `feat:` uma versão de funcionalidade (minor), e `feat!:` ou um rodapé `BREAKING CHANGE:` uma versão com quebra de compatibilidade (major). Os demais tipos não geram versão.
 
 ### Processo de Review
 

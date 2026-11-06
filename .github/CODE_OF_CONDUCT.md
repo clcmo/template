@@ -1,3 +1,5 @@
+🇧🇷 **Português** | 🇺🇸 [English](CODE_OF_CONDUCT.en.md)
+
 # Código de Conduta
 
 ## Nossa Promessa
@@ -49,10 +51,8 @@ Se um membro da comunidade se envolver em comportamento inaceitável, os mantene
 
 ## Atribuição
 
-Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org), versão 2.1, disponível em [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][def]
+Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org), versão 2.1, disponível em [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)
 
 ---
 
 **Ao participar deste projeto, você concorda em seguir este código de conduta.**
-
-[def]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html

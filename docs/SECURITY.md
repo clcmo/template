@@ -1,47 +1,47 @@
-# Politica de Segurança
+🇧🇷 **Português** | 🇺🇸 [English](SECURITY.en.md)
+
+# Política de Segurança
 
 ## Versões Suportadas
 
-O projeto mantém versões suportadas conforme a tabela abaixo:
+Apenas a versão mais recente recebe correções de segurança.
 
-| Browser | Supported          |
-| ------- | ------------------ |
-| Firefox | :white_check_mark: |
-| Chrome  | :white_check_mark: |
-| Safari  | :white_check_mark: |
-| Edge    | :white_check_mark: |
+| Versão             | Suportada          |
+| ------------------ | ------------------ |
+| Última release     | :white_check_mark: |
+| Versões anteriores | :x:                |
 
 ## Reportar uma vulnerabilidade
 
-Use esta seção para reportar vulnerabilidades de segurança encontradas no projeto.
+**Não abra uma issue pública para relatar vulnerabilidades.**
 
-Preencha o seguinte formulário para reportar uma vulnerabilidade: [Issue Request](https://github.com/clcmo/web/issues/new?assignees=&labels=&template=bug_report.md&title=), com as seguintes informações: 
+Use o [relato privado de vulnerabilidades](../../../security/advisories/new) do GitHub ou escreva para [dev@camilaloliveira.com](mailto:dev@camilaloliveira.com), incluindo:
+
 - Descrição detalhada da vulnerabilidade
-- Passos para reproduzir a vulnerabilidade
+- Passos para reproduzir
 - Comportamento esperado
 - Comportamento atual
 - Ambiente (sistema operacional, versão do navegador, etc.)
-Após o envio do formulário, nossa equipe de segurança analisará o relatório e entrará em contato para discutir os próximos passos.
+
+Depois do envio, a equipe analisa o relatório e entra em contato para combinar os próximos passos.
 
 ## Processo de resposta a vulnerabilidades
-Nosso processo de resposta a vulnerabilidades inclui as seguintes etapas:
-1. **Confirmação do relatório**: Verificamos a validade do relatório de vulner
-abilidade.
-2. **Avaliação de risco**: Avaliamos o impacto potencial da vulnerabilidade.
-3. **Desenvolvimento de correção**: Trabalhamos em uma correção para a
-    vulnerabilidade.
-4. **Divulgação responsável**: Informamos o reportante e, se aplicável,
-    a comunidade sobre a vulnerabilidade e a correção.
-5. **Implementação da correção**: Lançamos a correção em uma atualização
-    oficial do projeto.
-6. **Revisão pós-implementação**: Revisamos o processo para melhorar futuras
-    respostas a vulnerabilidades.
+
+1. **Confirmação do relatório**: verificamos a validade do relatório.
+2. **Avaliação de risco**: avaliamos o impacto potencial.
+3. **Desenvolvimento de correção**: trabalhamos em uma correção.
+4. **Divulgação responsável**: informamos o reportante e, se aplicável, a comunidade sobre a vulnerabilidade e a correção.
+5. **Implementação da correção**: lançamos a correção em uma atualização oficial do projeto.
+6. **Revisão pós-implementação**: revisamos o processo para melhorar respostas futuras.
 
 ## Política de divulgação
-Nosso objetivo é divulgar vulnerabilidades de forma responsável para proteger nossos usuários. Seguimos as melhores práticas da indústria para garantir que as vulnerabilidades sejam tratadas de maneira segura e eficaz.
+
+Nosso objetivo é divulgar vulnerabilidades de forma responsável para proteger os usuários. Seguimos as boas práticas do setor para que as vulnerabilidades sejam tratadas de maneira segura e eficaz.
 
 ## Contato
-Para mais informações ou dúvidas sobre nossa política de segurança, entre em contato conosco através do email: [dev@camilaloliveira.com](dev@camilaloliveira.com)
+
+Para dúvidas sobre esta política, escreva para [dev@camilaloliveira.com](mailto:dev@camilaloliveira.com).
 
 ## Atualizações da política de segurança
-Esta política de segurança pode ser atualizada periodicamente. Recomendamos revisar esta página regularmente para se manter informado sobre quaisquer mudanças.
+
+Esta política pode ser atualizada periodicamente. Recomendamos revisar esta página de tempos em tempos.
