@@ -28,7 +28,7 @@ Descrição breve do projeto.
 2. Em **Settings → Pages**, escolha **GitHub Actions** como fonte.
 3. Em **Settings → Actions → General → Workflow permissions**, marque **Read and write permissions**.
 4. Edite `content/pt-br.md` e `content/en.md`. O `README.md`, o `README.en.md` e o site do GitHub Pages são gerados a partir deles.
-5. Escreva commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/) (`feat:`, `fix:`). Cada push na `main` pode gerar uma versão e atualizar o `CHANGELOG.md`.
+5. Escreva commits no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/) (`feat:`, `fix:`). Commits de funcionalidade ou correção podem gerar tags de versão e releases com notas no GitHub.
 6. Apague esta seção.
 
 Site publicado: https://clcmo.github.io/template/
