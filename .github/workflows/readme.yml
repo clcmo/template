@@ -1,4 +1,4 @@
-name: README
+name: Generate Readme files
 run-name: Atualizar READMEs (${{ github.actor }})
 
 on:

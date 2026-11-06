@@ -1,4 +1,4 @@
-name: Pages
+name: Generate and deploy site
 run-name: Publicar site (${{ github.actor }})
 
 on:

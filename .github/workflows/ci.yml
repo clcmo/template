@@ -1,4 +1,4 @@
-name: CI
+name: Generate CI artifacts
 run-name: CI em ${{ github.ref_name }} por ${{ github.actor }}
 
 on:
@@ -33,6 +33,9 @@ jobs:
         run: npm run build:readme
         env:
           GITHUB_REPOSITORY: ${{ github.repository }}
+
+      - name: Verificar READMEs versionados
+        run: git diff --exit-code -- README.md README.en.md
 
       - name: Gerar site
         run: npm run build:site
