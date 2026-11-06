@@ -1,4 +1,4 @@
-name: Release
+name: Generate Release
 run-name: Gerar versão (${{ github.actor }})
 
 on:
